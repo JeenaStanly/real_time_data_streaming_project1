@@ -4,11 +4,12 @@ This project provides a comprehensive data pipeline solution to extract, transfo
 
 ## Table of Contents
 
-- [Overview](#overview)
-- [Architecture](#architecture)
-- [Prerequisites](#prerequisites)
-- [System Setup](#system-setup)
-- [Video](#video)
+- [Data Pipeline with Reddit, Airflow, Celery, Postgres, S3, AWS Glue, Athena, and Redshift](#data-pipeline-with-reddit-airflow-celery-postgres-s3-aws-glue-athena-and-redshift)
+  - [Table of Contents](#table-of-contents)
+  - [Overview](#overview)
+  - [Architecture](#architecture)
+  - [Prerequisites](#prerequisites)
+  - [System Setup](#system-setup)
 
 ## Overview
 
@@ -66,5 +67,3 @@ The pipeline is designed to:
    ```
 
 
-## Video
-[![Reddit Data Engineering](https://img.youtube.com/vi/LSlt6iVI_9Y/0.jpg)](https://www.youtube.com/watch?v=LSlt6iVI_9Y)
